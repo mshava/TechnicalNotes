@@ -22,24 +22,27 @@ Notes on things I learned & snippets of code that will make my life easier
 
 ### How to print a string to the console
 
-```javascript
 
 #how do I print to the console again?
 
 #This is how we write a function returning hello 
 
+```javascript
 var hello = function(){
 console.log("hello world");
 };
+```
 
 #This is how we write an if statement
+
+```javascript
 
 if (word.length == Sakhile){
 console.log("hello Sakhi");
 }else{
 console.log("hello " + "Andre");
 };
-
+```
 
 #A note about something else
 add more here...
