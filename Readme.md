@@ -63,6 +63,27 @@ describe("in the ferry kata", function (){
 });
 
 ```
+# To run a mocha test type (mocha and the filename_test.js) and one should fail and other one pass
+
+#This is a failling mocha test below
+```javascript
+/usr/local/lib/node_modules/mocha/lib/utils.js:591
+      if (!files.length) throw new Error("cannot resolve path (or pattern) '" 
+                               ^
+Error: cannot resolve path (or pattern) 'test'
+    at Object.lookupFiles (/usr/local/lib/node_modules/mocha/lib/utils.js:591:32)
+    at runAgain (/usr/local/lib/node_modules/mocha/bin/_mocha:320:30)
+    at Array.forEach (native)
+    at Object.<anonymous> (/usr/local/lib/node_modules/mocha/bin/_mocha:319:6)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+    at Function.Module._load (module.js:312:12)
+    at Function.Module.runMain (module.js:497:10)
+    at startup (node.js:119:16)
+    at node.js:902:3
+
+```
 
 add more here...
 
