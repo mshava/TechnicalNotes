@@ -84,6 +84,23 @@ Error: cannot resolve path (or pattern) 'test'
     at node.js:902:3
 
 ```
+#This is a mocha test that's passing
+```javascript
+var ass = require("assert");
+
+describe("in the ferry kata", function (){
+	it("it should be able to create cars", function(){
+
+		//assemble
+		//act
+		//assert
+
+		assert.aqual("car","car");
+	});
+	
+});
+
+```
 
 add more here...
 
