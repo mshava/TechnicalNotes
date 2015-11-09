@@ -23,15 +23,15 @@ Notes on things I learned & snippets of code that will make my life easier
 ### How to print a string to the console
 
 ```javascript
-### how do I print to the console again?
+# how do I print to the console again?
 
-###this is how we write a function returning hello 
+#This is how we write a function returning hello 
 
 var hello = function(){
 console.log("hello world");
 };
 
-#this is how we write an if statement
+#This is how we write an if statement
 
 if (word.length == Sakhile){
 console.log("hello Sakhi");
@@ -40,7 +40,7 @@ console.log("hello " + "Andre");
 };
 
 
-### A note about something else
+# A note about something else
 add more here...
 
 ### If things get to long...
