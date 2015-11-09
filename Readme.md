@@ -45,6 +45,25 @@ console.log("hello " + "Andre");
 ```
 
 #A note about something else
+
+#How to create a mocha test framework
+
+```javascript
+
+var ass = require("assert");
+
+describe("in the ferry kata", function (){
+	it("it should be able to create cars", function(){
+
+
+
+		assert.aqual("car","car");
+	});
+	
+});
+
+```
+
 add more here...
 
 ###If things get to long...
