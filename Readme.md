@@ -51,4 +51,4 @@ add more here...
 
 * [Todo something useful](notes/my_file.md) A short description here
 * [Create a basic Express app](notes/my_file.md) How to get going with express
-*[sakhile.md sakhile link file]
+*[ sakhile link file](sakhile.md) this is how we add a link to our .md files
