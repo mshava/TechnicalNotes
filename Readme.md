@@ -6,7 +6,7 @@
 * [Useful algorithms](./workshops/useful_algorithms.md)
 * Useful algoritms using functions (lodash)
 * How does a web application work?
-* Others?
+* Nelisa Spaza Shop
 
 ## Keep updated
 
