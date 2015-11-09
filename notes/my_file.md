@@ -1,3 +1,3 @@
-#My test file
+#My Javascript test file
 
 My notes on how to do stuff...
