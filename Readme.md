@@ -23,9 +23,9 @@ Notes on things I learned & snippets of code that will make my life easier
 ### How to print a string to the console
 
 ```javascript
-# how do I print to the console again?
+### how do I print to the console again?
 
-#this is how we write a function returning hello 
+###this is how we write a function returning hello 
 
 var hello = function(){
 console.log("hello world");
