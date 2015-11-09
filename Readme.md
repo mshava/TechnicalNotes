@@ -24,7 +24,18 @@ Notes on things I learned & snippets of code that will make my life easier
 
 ```javascript
 // how do I print to the console again?
-```
+this is how we write a function returning hello world
+var hello = function(){
+console.log("hello world");
+};
+//this is how we write an if statement
+
+if (word.length == Sakhile){
+console.log("hello Sakhi");
+}else{
+console.log("hello " + "Andre");
+};
+
 
 ### A note about something else
 add more here...
